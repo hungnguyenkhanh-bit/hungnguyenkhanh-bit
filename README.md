@@ -1,24 +1,17 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hungkhanh0809.hungkhanh0809&"  />
 </div>
 
-###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQwcmFpeXJ0MGs4NmtwcnY1MDVmbTFqbmYwcnZ1MWhtMWlmbmRmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
+</div>
 
-<h1 align="center">hey there 👋</h1>
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/hung-nguyen-khanh/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
 
 ###
 
@@ -26,7 +19,11 @@
 
 ###
 
-<p align="left">I'm Nguyen Khanh Hung from HCMUT<br><br>- 📚 I'm currently learning Computer Science</p>
+<p align="left">I'm Nguyen Khanh Hung from HCMUT
+  <br>: - I'm currently learning Computer Science
+  <br> - I have experience in AI, Data Engineering
+  <br> - I'm seeking for a position in AI/Data Intern
+</p>
 
 ###
 
@@ -61,7 +58,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hungkhanh0809&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://leetcode.com/Cosmos88">
+    <img src="https://leetcard.jacoblin.cool/Cosmos88?theme=dark" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ###
