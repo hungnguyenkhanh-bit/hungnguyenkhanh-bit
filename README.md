@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/hung-nguyen-khanh/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="https://drive.google.com/file/d/1cF0U7JQAiFY2JqUeEiqnTWky3viSD6BU/view?usp=sharing">
+    <img src="https://img.shields.io/static/v1?message=CV%20/%20Resume&logo=read-the-docs&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cv logo" />
+  </a>
 </div>
 
 ###
